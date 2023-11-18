@@ -9,53 +9,14 @@ The Console-Based Flight Booking System is a text-based application 📝🖥️ 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+
 ER-Diagram:
 ----------
 
-   +--------+        +--------+           +--------+
-   |        |        |        |           |        |
-   | Admin  |        | Flight |           |Customer|
-   |        |        |        |           |        |
-   +---|----+        +--|-----+           +---|----+
-       |               |                     |
-       | manages       | has                 | makes
-       |               |                     |
-       V               V                     V
-   +---|---+        +--|-----+           +---|----+
-   |       |        |       |           |       |
-   |AdminID|        |FlightID|           |CustomerID|
-   |       |        |       |           |       |
-   +-------+        +-------+           +-------+
-       |               |                     |
-       |               |                     |
-       V               V                     V
-   +---|---+        +--|-----+           +---|----+
-   |       |        |       |           |       |
-   | Name  |        |FlightN|           |   Name|
-   |       |        |umber  |           |       |
-   +-------+        +-------+           +-------+
-       |               |                     |
-       |               |                     |
-       V               V                     V
-   +---|---+        +--|-----+           +---|----+
-   |       |        |       |           |       |
-   |Username|        |Departu|           |Username|
-   |       |        |reCity  |           |       |
-   +-------+        +-------+           +-------+
-       |               |                     |
-       |               |                     |
-       V               V                     V
-   +---|---+        +--|-----+           +---|----+
-   |       |        |       |           |       |
-   |Password|        |Arrival|           | Password|
-   |       |        |City   |           |       |
-   +-------+        +-------+           +-------+
-                          |
-                          |
-                          V
-                    +--|-----+
-                    |       |
-                    |  Price|
-                    |       |
-                    +-------+
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Wasim901/fastFly_sb101/assets/119388217/c72c06cb-0c48-4d4f-a51a-06e034297bde" alt="Image description">
+</p>
 
