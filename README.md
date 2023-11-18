@@ -16,7 +16,8 @@ ER-Diagram:
 ----------
 
 
+
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Wasim901/fastFly_sb101/assets/119388217/c72c06cb-0c48-4d4f-a51a-06e034297bde" alt="Image description">
+  <img width="460" height="300" src="https://github.com/Wasim901/fastFly_sb101/assets/119388217/1c2e403f-791b-401c-bf52-fbf979274ade" alt="Image description">
 </p>
 
